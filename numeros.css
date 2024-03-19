@@ -1,0 +1,146 @@
+.numeros_x{
+    padding-left: 30px;
+    width: 550px;
+}
+.numeros_x span{
+    font-size: 10px;
+}
+
+.numeros_x .n2{
+    padding-left:5px;
+}
+.numeros_x .n3{
+    padding-left:5px;
+}
+.numeros_x .n4{
+    padding-left:6px;
+}
+.numeros_x .n5{
+    padding-left:7px;
+}
+.numeros_x .n6{
+    padding-left:5px;
+}
+.numeros_x .n7{
+    padding-left:6px;
+}
+.numeros_x .n8{
+    padding-left:6px;
+}
+.numeros_x .n9{
+    padding-left:6px;
+}
+.numeros_x .n10{
+    padding-left:6px;
+}
+.numeros_x .n11{
+    padding-left:4px;
+}
+.numeros_x .n12{
+    padding-left:1px;
+}
+.numeros_x .n13{
+    padding-left:1px;
+}
+.numeros_x .n14{
+    padding-left:1px;
+}
+.numeros_x .n15{
+    padding-left:1px;
+}
+.numeros_x .n16{
+    padding-left:1px;
+}
+.numeros_x .n17{
+    padding-left:1px;
+}
+.numeros_x .n18{
+    padding-left:1px;
+}
+.numeros_x .n19{
+    padding-left:1px;
+}
+.numeros_x .n20{
+    padding-left:1px;
+}
+.numeros_x .n21{
+    padding-left:1px;
+}
+
+/* ------------------------------ */
+
+.numeros_y{
+    padding-left:30px;
+    width: 550px;
+    transform: rotate(-90deg);
+    position: relative;
+    left: -277px;
+    top: -300px;
+}
+.numeros_y span{
+    
+    font-size: 10px;
+}
+.numeros_y .n1{
+    padding-left:1px;
+}
+.numeros_y .n2{
+    padding-left:5px;
+}
+.numeros_y .n3{
+    padding-left:5px;
+}
+.numeros_y .n4{
+    padding-left:6px;
+}
+.numeros_y .n5{
+    padding-left:7px;
+}
+.numeros_y .n6{
+    padding-left:5px;
+}
+.numeros_y .n7{
+    padding-left:6px;
+}
+.numeros_y .n8{
+    padding-left:6px;
+}
+.numeros_y .n9{
+    padding-left:6px;
+}
+.numeros_y .n10{
+    padding-left:6px;
+}
+.numeros_y .n11{
+    padding-left:1px;
+}
+.numeros_y .n12{
+    padding-left:1px;
+}
+.numeros_y .n13{
+    padding-left:1px;
+}
+.numeros_y .n14{
+    padding-left:1px;
+}
+.numeros_y .n15{
+    padding-left:1px;
+}
+.numeros_y .n16{
+    padding-left:1px;
+}
+.numeros_y .n17{
+    padding-left:1px;
+}
+.numeros_y .n18{
+    padding-left:1px;
+}
+.numeros_y .n19{
+    padding-left:1px;
+}
+.numeros_y .n20{
+    padding-left:1px;
+}
+.numeros_y .n21{
+    padding-left:1px;
+}

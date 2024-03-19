@@ -1,0 +1,301 @@
+article{
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: relative;
+}
+article.lineax1 {
+    top: -20px;
+}
+article.lineax2 {
+    top: -36px;
+}
+article.lineax3 {
+    top: -52px;
+}
+article.lineax4 {
+    top: -68px;
+}
+article.lineax5 {
+    top: -84px;
+}
+article.lineax6 {
+    top: -100px;
+}
+article.lineax7 {
+    top: -116px;
+}
+article.lineax8 {
+    top: -132px;
+}
+article.lineax9 {
+    top: -148px;
+}
+article.lineax10 {
+    top: -164px;
+}
+article.lineax11 {
+    top: -180px;
+}
+article.lineax12 {
+    top: -196px;
+}
+article.lineax13 {
+    top: -212px;
+}
+article.lineax14 {
+    top: -228px;
+}
+article.lineax15 {
+    top: -244px;
+}
+article.lineax16 {
+    top: -260px;
+}
+article.lineax17 {
+    top: -276px;
+}
+article.lineax18 {
+    top: -292px;
+}
+article.lineax19 {
+    top: -308px;
+}
+article.lineax20 {
+    top: -324px;
+}
+
+article.lineax21 {
+    top: -340px;
+}
+article.lineax22 {
+    top: -356px;
+}
+article.lineax23 {
+    top: -372px;
+}
+article.lineax24 {
+    top: -388px;
+}
+article.lineax25 {
+    top: -404px;
+}
+article.lineax26 {
+    top: -420px;
+}
+article.lineax27 {
+    top: -436px;
+}
+article.lineax28 {
+    top: -452px;
+}
+article.lineax29 {
+    top: -468px;
+}
+article.lineax30 {
+    top: -484px;
+}
+article.lineax31 {
+    top: -500px;
+}
+article.lineax32 {
+    top: -516px;
+}
+article.lineax33 {
+    top: -532px;
+}
+article.lineax34 {
+    top: -548px;
+}
+article.lineax35 {
+    top: -564px;
+}
+article.lineax36 {
+    top: -580px;
+}
+article.lineax37 {
+    top: -596px;
+}
+article.lineax38 {
+    top: -612px;
+}
+article.lineax39 {
+    top: -628px;
+}
+
+/* ------------------------ */
+
+
+
+
+
+
+.lineay1{
+    transform: rotate(90deg);
+    left: -235px;
+    top: -288px;
+}
+.lineay2{
+    
+    transform: rotate(90deg);
+    left: -220px;
+    top: -289px;
+}
+.lineay3{
+    transform: rotate(90deg);
+    left: -205px;
+    top: -290px;
+}
+.lineay4{
+    
+    transform: rotate(90deg);
+    left: -190px;
+    top: -291px;
+}
+.lineay5{
+    transform: rotate(90deg);
+    left: -175px;
+    top: -292px;
+}
+.lineay6{
+    transform: rotate(90deg);
+    left: -160px;
+    top: -293px;
+}
+.lineay7{
+    transform: rotate(90deg);
+    left: -145px;
+    top: -294px;
+}
+.lineay8{
+    transform: rotate(90deg);
+    left: -130px;
+    top: -295px;
+}
+.lineay9{
+    transform: rotate(90deg);
+    left: -115px;
+    top: -296px;
+}
+.lineay10{
+    transform: rotate(90deg);
+    left: -100px;
+    top: -297px;
+}
+
+.lineay11{
+    transform: rotate(90deg);
+    left: -85px;
+    top: -298px;
+}
+.lineay12{
+    transform: rotate(90deg);
+    left: -70px;
+    top: -299px;
+}
+.lineay13{
+    transform: rotate(90deg);
+    left: -55px;
+    top: -300px;
+}
+.lineay14{
+    transform: rotate(90deg);
+    left: -40px;
+    top: -301px;
+}
+.lineay15{
+    transform: rotate(90deg);
+    left: -25px;
+    top: -302px;
+}
+.lineay16{
+    transform: rotate(90deg);
+    left: -10px;
+    top: -303px;
+}
+.lineay17{
+    transform: rotate(90deg);
+    left: 5px;
+    top: -304px;
+}
+.lineay18{
+    transform: rotate(90deg);
+    left: 20px;
+    top: -305px;
+}
+.lineay19{
+    transform: rotate(90deg);
+    left: 35px;
+    top: -306px;
+}
+.lineay20{
+    transform: rotate(90deg);
+    left: 50px;
+    top: -307px;
+}
+.lineay21{
+    transform: rotate(90deg);
+    left: 65px;
+    top: -308px;
+}
+.lineay22{
+    transform: rotate(90deg);
+    left: 80px;
+    top: -309px;
+}
+.lineay23{
+    transform: rotate(90deg);
+    left: 95px;
+    top: -310px;
+}
+.lineay24{
+    transform: rotate(90deg);
+    left: 110px;
+    top: -311px;
+}
+.lineay25{
+    transform: rotate(90deg);
+    left: 125px;
+    top: -312px;
+}
+.lineay26{
+    transform: rotate(90deg);
+    left: 140px;
+    top: -313px;
+}
+.lineay27{
+    transform: rotate(90deg);
+    left: 155px;
+    top: -314px;
+}
+.lineay28{
+    transform: rotate(90deg);
+    left: 170px;
+    top: -315px;
+}
+.lineay29{
+    transform: rotate(90deg);
+    left: 185px;
+    top: -316px;
+}
+.lineay30{
+    transform: rotate(90deg);
+    left: 200px;
+    top: -317px;
+}
+.lineay31{
+    transform: rotate(90deg);
+    left: 215px;
+    top: -318px;
+}
+
+.lineay32{
+    transform: rotate(90deg);
+    left: 230px;
+    top: -319px;
+}
+.lineay33{
+    transform: rotate(90deg);
+    left: 245px;
+    top: -320px;
+}

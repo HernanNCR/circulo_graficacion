@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="circurlo.css">
+    <link rel="stylesheet" href="numeros.css">
+
+    <style>
+        #canvas-container {
+            margin: 20px 0px 0px 20px;
+            border: 1px solid black;
+            width: 500px; 
+            height: 500px;
+            background-color: #ccc;
+            
+        }
+    </style>
+</head>
+<body>
+
+    <form action="" id="coordForm">
+        <label for="radio">Radio del círculo:</label><br>
+        <input type="number" name="radio" id="radio" placeholder="º">
+        <br><br>
+        <label for="x">Centro del círculo (X, Y):</label><br>
+        <input type="number" name="x" id="x" placeholder="X">
+        <input type="number" name="y" id="y" placeholder="Y">
+        <br><br>
+        <button type="submit">Crear</button>
+        <button type="button" onclick="cerrar()">Borrar</button>
+    </form>
+    
+
+
+    
+
+    <div id="canvas-container">
+        <canvas id="canvas" width="500px" height="500px" style="background-color: rgb(146, 218, 194);" >
+            
+        </canvas>
+        <article class="lineax1"></article>
+        <article class="lineax2"></article>
+        <article class="lineax3"></article>
+        <article class="lineax4"></article>
+        <article class="lineax5"></article>
+        <article class="lineax6"></article>
+        <article class="lineax7"></article>
+        <article class="lineax8"></article>
+        <article class="lineax9"></article>
+        <article class="lineax10"></article>
+        <article class="lineax11"></article>
+        <article class="lineax12"></article>
+        <article class="lineax13"></article>
+        <article class="lineax14"></article>
+        <article class="lineax15"></article>
+        <article class="lineax16"></article>
+        <article class="lineax17"></article>
+        <article class="lineax18"></article>
+        <article class="lineax19"></article>
+        <article class="lineax20"></article>
+        <article class="lineax21"></article>
+        <article class="lineax22"></article>
+        <article class="lineax23"></article>
+        <article class="lineax24"></article>
+        <article class="lineax25"></article>
+        <article class="lineax26"></article>
+        <article class="lineax27"></article>
+        <article class="lineax28"></article>
+        <article class="lineax29"></article>
+        <article class="lineax30"></article>
+        <article class="lineax31"></article>
+        <article class="lineax32"></article>
+        <article class="lineax33"></article>
+        <!-- <article class="lineax34"></article>
+        <article class="lineax35"></article>
+        <article class="lineax36"></article>
+        <article class="lineax37"></article>
+        <article class="lineax38"></article>
+        <article class="lineax39"></article>
+        <article class="lineax40"></article> -->
+
+        
+        
+        
+        <article class="lineay1"></article>
+        <article class="lineay2"></article>
+        <article class="lineay3"></article>
+        <article class="lineay4"></article>
+        <article class="lineay5"></article>
+        <article class="lineay6"></article>
+        <article class="lineay7"></article>
+        <article class="lineay8"></article>
+        <article class="lineay9"></article>
+        <article class="lineay10"></article>
+        <article class="lineay11"></article>
+        <article class="lineay12"></article>
+        <article class="lineay13"></article>
+        <article class="lineay14"></article>
+        <article class="lineay15"></article>
+        <article class="lineay16"></article>
+        <article class="lineay17"></article>
+        <article class="lineay18"></article>
+        <article class="lineay19"></article>
+        <article class="lineay20"></article>
+        <article class="lineay21"></article>
+        <article class="lineay22"></article>
+        <article class="lineay23"></article>
+        <article class="lineay24"></article>
+        <article class="lineay25"></article>
+        <article class="lineay26"></article>
+        <article class="lineay27"></article>
+        <article class="lineay28"></article>
+        <article class="lineay29"></article>
+        <article class="lineay30"></article>
+        <article class="lineay31"></article>
+        <article class="lineay32"></article>
+        <article class="lineay33"></article>
+        <article class="lineay34"></article>
+        
+        
+    </div>
+    
+    <div class="numeros">
+        <div class="numeros_x">
+            <span class="n2">1</span>
+            <span class="n3">2</span>
+            <span class="n4">3</span>
+            <span class="n5">4</span>
+            <span class="n6">5</span>
+            <span class="n7">6</span>
+            <span class="n8">7</span>
+            <span class="n9">8</span>
+            <span class="n10">9</span>
+            <span class="n11">10</span>
+            <span class="n12">11</span>
+            <span class="n13">12</span>
+            <span class="n14">13</span>
+            <span class="n15">14</span>
+            <span class="n16">15</span>
+            <span class="n17">16</span>
+            <span class="n18">17</span>
+            <span class="n19">18</span>
+            <span class="n20">19</span>
+            <span class="n12">20</span>
+            <span class="n12">21</span>
+            <span class="n12">22</span>
+            <span class="n12">23</span>
+            <span class="n12">24</span>
+            <span class="n12">25</span>
+            <span class="n12">26</span>
+            <span class="n12">27</span>
+            <span class="n12">28</span>
+            <span class="n12">29</span>
+            <span class="n12">30</span>
+            <span class="n12">31</span>
+            <span class="n1">32</span>
+            <span class="n1">33</span>
+        </div> 
+        <div class="numeros_y">
+            <span class="n1">1</span>
+            <span class="n2">2</span>
+            <span class="n3">3</span>
+            <span class="n4">4</span>
+            <span class="n5">5</span>
+            <span class="n6">6</span>
+            <span class="n7">7</span>
+            <span class="n8">8</span>
+            <span class="n9">9</span>
+            <span class="n10">10</span>
+            <span class="n11">11</span>
+            <span class="n12">12</span>
+            <span class="n13">13</span>
+            <span class="n14">14</span>
+            <span class="n15">15</span>
+            <span class="n16">16</span>
+            <span class="n17">17</span>
+            <span class="n18">18</span>
+            <span class="n19">19</span>
+            <span class="n20">20</span>
+            <span class="n1">21</span>
+            <span class="n1">22</span>
+            <span class="n1">23</span>
+            <span class="n1">24</span>
+            <span class="n1">25</span>
+            <span class="n1">26</span>
+            <span class="n1">27</span>
+            <span class="n1">28</span>
+            <span class="n1">29</span>
+            <span class="n1">30</span>
+            <span class="n1">31</span>
+            <span class="n1">32</span>
+            <span class="n1">33</span>
+        </div>
+    </div>
+
+
+
+
+    <script src="circulo.js"></script>
+</body>
+</html>
